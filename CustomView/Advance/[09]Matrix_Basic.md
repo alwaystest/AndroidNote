@@ -342,7 +342,7 @@ $$)
 
 ### 后乘(post)
 
-前乘相当于矩阵的左乘：
+后乘相当于矩阵的左乘：
 
 ![](http://latex.codecogs.com/png.latex?$$ M' =  S \\cdot M $$)
 
